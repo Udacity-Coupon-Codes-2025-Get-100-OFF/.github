@@ -154,7 +154,7 @@ Now let’s move to the next step of claiming those Udacity coupons.
 
 Follow these simple steps to claim a Udacity promo code successfully.
 
-**Step 1:** Browse [**Udacity's website**](https://bit.ly/46OdeH6) to find a course that fits your learning goals.
+**Step 1:** Browse [**Udacity's website**](https://click.linksynergy.com/fs-bin/click?id=1Ptqr%2fByXKY&offerid=1730781.24&type=3&subid=0) to find a course that fits your learning goals.
 
 ![udacity official website](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkIcQCThVoXWCGw86jpIP4tzolgIJPo9vXvzZMpzi7_gVnuQrcQK8xEouhFcegGwxzGCfVTuNfdW7v6g0CYACbbccBwWEL2iYyhNL2_uepYwXRwpULR_Xlvhz-dS1e3mxPrilK?key=5fI_2zDiiHmrP87QzjBwipSJ)
 
